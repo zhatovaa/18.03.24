@@ -1,0 +1,27 @@
+body {
+    background-color: #f2f1f1;
+}
+
+.test_box {
+    background-color: #b8b7b7;
+    color: white;
+    height: 600px;
+    margin-right: 100px;
+    margin-left: 120px;
+    margin-bottom: 50px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.test_box2 {
+    background-color: #ffffff;
+    color: black;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.test_box3 {
+    color: green;
+}
